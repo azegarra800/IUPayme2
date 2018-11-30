@@ -1,0 +1,53 @@
+.col-lg-6.col-md-6.col-details {
+    flex: 0 0 100%;
+    max-width: 100% !important;
+}
+.info-derecha {
+    width: 50%;
+    float: left;
+}
+.info-derecha select {
+    width: 90%;
+}
+.info-derecha form
+{
+	margin-bottom: 10px;
+}
+div.info-derecha input{
+    width: 90%;
+    margin-bottom: 10px;
+}
+.info-izquierda {
+    width: 50%;
+    float: left;
+}
+.info-izquierda input {
+    width: 90%;
+    margin-bottom: 10px;
+}
+.info-derecha select {
+    width: 90%;
+    margin: 0.3% 0;
+}
+.form-check.diferente {
+    vertical-align: middle;
+    padding: 5px 0;
+    margin-top: 40px;
+    font-size: 18px;
+    width: 90%;
+}
+.boton-enviar {
+    text-align: center;
+    margin: 0 auto;
+}
+option {
+    background: #171941;
+    color: white;
+}
+form.selecionar-moneda{
+    width: 45%;
+}
+form.selecionar-moneda {
+    width: 45%;
+    margin-bottom: 2%;
+}
